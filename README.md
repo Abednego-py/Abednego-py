@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abednego Aginam</h1>
 <h3 align="center">A software engineer building amazing projects</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abednego-py" alt="abednego-py" /></a> </p>
 
 - 🔭 I’m currently working on [Netflix clone](https://github.com/Abednego-py/Netflix-clone)
 

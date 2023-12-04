@@ -2,9 +2,9 @@
 <h3 align="center">A software engineer building amazing projects</h3>
 
 
-- 🔭 I’m currently working on [Netflix clone](https://github.com/Abednego-py/Netflix-clone)
+- 🔭 I currently work with an amazing team of engineers at Qore. 
 
-- 🌱 I’m currently learning **React, Redux**
+- 🌱 I’m currently creating contents on **YouTube**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abednego-py](https://github.com/Abednego-py)
 
